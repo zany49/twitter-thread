@@ -1,10 +1,5 @@
 # backend-social
 
-POSTMAN-COLLECTION and POSTMAN ENVIRONMENT SETUP LINK IS IN BELOW: (download it and import it on your postman collection and environment )
-
-https://drive.google.com/drive/folders/1TW79sDInSqzrR4SYbsj98dq4XLGk3NkP?usp=sharing
-
-
 1,Register api:
 
 http://localhost:8000/api/register (POST)
